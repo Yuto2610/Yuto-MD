@@ -33,10 +33,10 @@ global.footer = 'Cekil' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'https://s.id/cekilxd'
 global.ig = 'https://instagram.com/cekilgans'
 global.mygc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.myweb = 'https://s.id/cekilxd'
+global.myweb = 'https://s.id/gcJb'
 global.email = 'cekilxd@gmail.com'
 global.region = 'indonesia'
 
