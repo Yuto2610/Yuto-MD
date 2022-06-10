@@ -62,7 +62,7 @@ global.thumb = fs.readFileSync('./image/chika.jpg')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/d03333a290389f9a423f6.jpg'
+global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
